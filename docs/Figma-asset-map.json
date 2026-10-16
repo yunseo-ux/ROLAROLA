@@ -1,0 +1,291 @@
+{
+  "fileKey": "OQqcPoFp7oPmqpco4HZSvP",
+  "nodeId": "179:2673",
+  "assets": [
+    {
+      "name": "imgLine1",
+      "file": "src/assets/images/imgLine1.svg",
+      "sourceNodeIds": [
+        "179:2682"
+      ]
+    },
+    {
+      "name": "imgSolarArrowUpLinear",
+      "file": "src/assets/images/imgSolarArrowUpLinear.svg",
+      "sourceNodeIds": [
+        "179:2683"
+      ]
+    },
+    {
+      "name": "imgRolarolaLogoHighResolution1Traced",
+      "file": "src/assets/images/imgRolarolaLogoHighResolution1Traced.svg",
+      "sourceNodeIds": [
+        "179:2697"
+      ]
+    },
+    {
+      "name": "imgLine2",
+      "file": "src/assets/images/imgLine2.svg",
+      "sourceNodeIds": [
+        "179:2702"
+      ]
+    },
+    {
+      "name": "imgSolarArrowUpLinear1",
+      "file": "src/assets/images/imgSolarArrowUpLinear1.svg",
+      "sourceNodeIds": [
+        "179:2703",
+        "179:2847",
+        "179:2868",
+        "179:2887",
+        "179:2906"
+      ]
+    },
+    {
+      "name": "imgImgImage",
+      "file": "src/assets/images/imgImgImage.svg",
+      "sourceNodeIds": [
+        "179:2710"
+      ]
+    },
+    {
+      "name": "imgLine3",
+      "file": "src/assets/images/imgLine3.svg",
+      "sourceNodeIds": [
+        "179:2712",
+        "179:2718",
+        "179:2724",
+        "179:2730",
+        "179:2736"
+      ]
+    },
+    {
+      "name": "imgImgImage1",
+      "file": "src/assets/images/imgImgImage1.svg",
+      "sourceNodeIds": [
+        "179:2716"
+      ]
+    },
+    {
+      "name": "imgImgImage2",
+      "file": "src/assets/images/imgImgImage2.svg",
+      "sourceNodeIds": [
+        "179:2722"
+      ]
+    },
+    {
+      "name": "imgImgImage3",
+      "file": "src/assets/images/imgImgImage3.svg",
+      "sourceNodeIds": [
+        "179:2728"
+      ]
+    },
+    {
+      "name": "imgImgImage4",
+      "file": "src/assets/images/imgImgImage4.svg",
+      "sourceNodeIds": [
+        "179:2734"
+      ]
+    },
+    {
+      "name": "imgImgImage5",
+      "file": "src/assets/images/imgImgImage5.svg",
+      "sourceNodeIds": [
+        "179:2740"
+      ]
+    },
+    {
+      "name": "imgLine6",
+      "file": "src/assets/images/imgLine6.svg",
+      "sourceNodeIds": [
+        "179:2744"
+      ]
+    },
+    {
+      "name": "imgImgImage6",
+      "file": "src/assets/images/imgImgImage6.svg",
+      "sourceNodeIds": [
+        "179:2748"
+      ]
+    },
+    {
+      "name": "imgLine4",
+      "file": "src/assets/images/imgLine4.svg",
+      "sourceNodeIds": [
+        "179:2755"
+      ]
+    },
+    {
+      "name": "imgSolarArrowUpLinear2",
+      "file": "src/assets/images/imgSolarArrowUpLinear2.svg",
+      "sourceNodeIds": [
+        "179:2756",
+        "179:2765"
+      ]
+    },
+    {
+      "name": "imgLine5",
+      "file": "src/assets/images/imgLine5.svg",
+      "sourceNodeIds": [
+        "179:2764"
+      ]
+    },
+    {
+      "name": "imgImgImage7",
+      "file": "src/assets/images/imgImgImage7.svg",
+      "sourceNodeIds": [
+        "179:2770"
+      ]
+    },
+    {
+      "name": "imgImgImage8",
+      "file": "src/assets/images/imgImgImage8.svg",
+      "sourceNodeIds": [
+        "179:2771"
+      ]
+    },
+    {
+      "name": "imgImgImage9",
+      "file": "src/assets/images/imgImgImage9.svg",
+      "sourceNodeIds": [
+        "179:2773"
+      ]
+    },
+    {
+      "name": "imgImgImage10",
+      "file": "src/assets/images/imgImgImage10.svg",
+      "sourceNodeIds": [
+        "179:2774"
+      ]
+    },
+    {
+      "name": "imgImgImage11",
+      "file": "src/assets/images/imgImgImage11.svg",
+      "sourceNodeIds": [
+        "179:2776"
+      ]
+    },
+    {
+      "name": "imgImgImage12",
+      "file": "src/assets/images/imgImgImage12.svg",
+      "sourceNodeIds": [
+        "179:2777"
+      ]
+    },
+    {
+      "name": "imgImgImage13",
+      "file": "src/assets/images/imgImgImage13.svg",
+      "sourceNodeIds": [
+        "179:2779"
+      ]
+    },
+    {
+      "name": "imgLine7",
+      "file": "src/assets/images/imgLine7.svg",
+      "sourceNodeIds": [
+        "179:2784"
+      ]
+    },
+    {
+      "name": "imgSolarArrowUpLinear3",
+      "file": "src/assets/images/imgSolarArrowUpLinear3.svg",
+      "sourceNodeIds": [
+        "179:2785",
+        "179:2822"
+      ]
+    },
+    {
+      "name": "imgImgImage14",
+      "file": "src/assets/images/imgImgImage14.svg",
+      "sourceNodeIds": [
+        "179:2815"
+      ]
+    },
+    {
+      "name": "imgLine8",
+      "file": "src/assets/images/imgLine8.svg",
+      "sourceNodeIds": [
+        "179:2821"
+      ]
+    },
+    {
+      "name": "imgLine9",
+      "file": "src/assets/images/imgLine9.svg",
+      "sourceNodeIds": [
+        "179:2846",
+        "179:2867"
+      ]
+    },
+    {
+      "name": "imgImgImage15",
+      "file": "src/assets/images/imgImgImage15.svg",
+      "sourceNodeIds": [
+        "179:2854"
+      ]
+    },
+    {
+      "name": "imgImgImage16",
+      "file": "src/assets/images/imgImgImage16.svg",
+      "sourceNodeIds": [
+        "179:2873"
+      ]
+    },
+    {
+      "name": "imgLine10",
+      "file": "src/assets/images/imgLine10.svg",
+      "sourceNodeIds": [
+        "179:2886",
+        "179:2905"
+      ]
+    },
+    {
+      "name": "imgImgImage17",
+      "file": "src/assets/images/imgImgImage17.svg",
+      "sourceNodeIds": [
+        "179:2892"
+      ]
+    },
+    {
+      "name": "imgImgImage18",
+      "file": "src/assets/images/imgImgImage18.svg",
+      "sourceNodeIds": [
+        "179:2915"
+      ]
+    },
+    {
+      "name": "imgImgImage19",
+      "file": "src/assets/images/imgImgImage19.svg",
+      "sourceNodeIds": [
+        "179:2920"
+      ]
+    },
+    {
+      "name": "imgRolarolaLogoHighResolution1Traced1",
+      "file": "src/assets/images/imgRolarolaLogoHighResolution1Traced1.svg",
+      "sourceNodeIds": [
+        "179:2921"
+      ]
+    },
+    {
+      "name": "imgLine11",
+      "file": "src/assets/images/imgLine11.svg",
+      "sourceNodeIds": [
+        "179:2928"
+      ]
+    },
+    {
+      "name": "imgSolarArrowUpLinear4",
+      "file": "src/assets/images/imgSolarArrowUpLinear4.svg",
+      "sourceNodeIds": [
+        "179:2929"
+      ]
+    },
+    {
+      "name": "imgRolarolaLogoHighResolution1Traced2",
+      "file": "src/assets/images/imgRolarolaLogoHighResolution1Traced2.svg",
+      "sourceNodeIds": [
+        "179:2951"
+      ]
+    }
+  ]
+}

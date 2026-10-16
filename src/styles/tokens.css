@@ -1,0 +1,32 @@
+/* Observed Figma primitives. See Design-token.md for scope and exceptions. */
+:root {
+  --rr-color-pink-100: #f9eef0;
+  --rr-color-rose-500: #d2495c;
+  --rr-color-category-hover: #ffe8ec;
+  --rr-color-cream-desktop: #f8f5ef;
+  --rr-color-cream-mobile: #f7f3e9;
+  --rr-color-black: #000000;
+  --rr-color-white: #ffffff;
+  --rr-color-gray-950: #0c0c0c;
+  --rr-color-gray-900: #141414;
+  --rr-color-gray-500: #838383;
+  --rr-font-family-mono: 'JetBrains Mono';
+  --rr-font-family-index: 'Roboto';
+  --rr-font-family-collection-mobile: 'Pretendard';
+  --rr-font-weight-regular: 400;
+  --rr-font-weight-medium: 500;
+  --rr-font-weight-semibold: 600;
+  --rr-line-height-heading: 1.2;
+  --rr-line-height-auto: normal;
+  --rr-letter-spacing-heading: -0.02em;
+  --rr-letter-spacing-body: -0.04em;
+  --rr-letter-spacing-navigation: -0.03em;
+  --rr-space-8: 8px;
+  --rr-space-10: 10px;
+  --rr-space-19: 19px;
+  --rr-space-24: 24px;
+  --rr-space-29: 29px;
+  --rr-space-32: 32px;
+  --rr-layout-gutter-desktop: 64px;
+  --rr-layout-gutter-mobile: 12px;
+}

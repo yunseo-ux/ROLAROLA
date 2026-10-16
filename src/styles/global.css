@@ -1,0 +1,27 @@
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+}
+
+html, body { scrollbar-width: none; }
+html::-webkit-scrollbar, body::-webkit-scrollbar { display: none; }
+
+html { scroll-behavior: smooth; scroll-padding-top: 24px; }
+body { background: var(--rr-color-cream-desktop); color: #000; font-family: var(--rr-font-family-mono), 'Pretendard', monospace; font-weight: 500; }
+button { font: inherit; color: inherit; padding: 0; border: 0; background: none; }
+button:disabled { opacity: 1; cursor: default; }
+a { color: inherit; text-decoration: none; }
+button:focus-visible, a:focus-visible, [tabindex]:focus-visible { outline: 2px solid currentColor; outline-offset: 5px; }
+h1, h2, h3, p, figure { margin: 0; }
+img { display: block; }
+.site-shell { position: relative; overflow: clip; }
+.skip-link { position: absolute; z-index: 30; left: 12px; top: 12px; padding: 12px; background: white; color: black; transform: translateY(-160%); }
+.skip-link:focus { transform: translateY(0); }
+@media (prefers-reduced-motion: reduce) { html { scroll-behavior: auto; } }
+
+[hidden] { display: none !important; }
