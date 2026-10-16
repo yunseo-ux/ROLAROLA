@@ -1,4 +1,5 @@
 node_modules/
+.vercel/
 dist/
 artifacts/
 .env
@@ -7,3 +8,6 @@ artifacts/
 *.local
 *.log
 .DS_Store
+
+.vercel
+.env*
